@@ -1,0 +1,12 @@
+.base {
+    text-align: center;
+}
+
+.margin {
+    margin-top: 50px;
+}
+
+.active {
+    background-color: black;
+    width: 100%;
+}
